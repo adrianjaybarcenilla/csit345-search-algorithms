@@ -1,0 +1,11 @@
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\bin\Debug\SearchAlgo.exe.config
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\bin\Debug\SearchAlgo.exe
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\bin\Debug\SearchAlgo.pdb
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\barcenilla-search-algorithms.csproj.AssemblyReference.cache
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\barcenilla-search-algorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\SearchAlgo.Form1.resources
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\SearchAlgo.Properties.Resources.resources
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\barcenilla-search-algorithms.csproj.GenerateResource.cache
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\barcenilla-search-algorithms.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\SearchAlgo.exe
+C:\Users\adrian\Source\Repos\c-sharp-bfs\SearchAlgo\obj\Debug\SearchAlgo.pdb
